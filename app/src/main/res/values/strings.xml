@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Evilion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_auth">AuthActivity</string>
+    <string name="tab_text_1">Войти</string>
+    <string name="tab_text_2">Регистрация</string>
+
+    <string-array name="categories">
+        <item>Все товары</item>
+        <item>Кроссовки</item>
+        <item>Тапочки</item>
+        <item>Туфли</item>
+    </string-array>
+</resources>
